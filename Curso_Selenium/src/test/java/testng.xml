@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ejecución Pruebas Automatización">
+    <test name="Regresión Ejemplo">
+        <classes>
+                    <class name="Tests.Prueba"></class>
+        </classes>
+    </test>
+</suite>
+
+
